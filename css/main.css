@@ -1,0 +1,48 @@
+* { margin: 0; padding: 0;
+}
+
+html, body { height: 100%; text-align: center;  font-family: 'Lato', sans-serif; font-size: 18px; line-height: 1.5em; color: #666; }
+
+.content { max-width: 800px; margin: 0 auto; padding: 100px 0; }
+
+h2 { font-size: 1.75em; text-transform: uppercase; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.25em; }
+h2, h3, h4, h5, h6, p, ul, ol, li { margin-bottom: 18px; }
+
+a, .abbr { text-decoration: none; border-bottom: 1px dotted; }
+
+header { color: #466277; background-color: #1B3139; padding: 10px; }
+header nav { text-align: right; margin-right: 10px;}
+header a { color: #466277; margin: 10px; }
+
+#splash { min-height: 500px; color: #466277; background-color: #1B3139;  }
+#splash h1 { padding: 70px 0 70px 0; margin-bottom: 50px; font-family: 'Pacifico', cursive; font-size: 8em; font-style: italic;}
+#splash .content { max-width: 1000px; }
+
+#about { background-color: #466277; color: #FFE4CE; text-align: center; }
+#about a, #about a:visited { color: #FFE4CE; }
+
+#forthcoming { background-color: #FFE4CE; color: #466277; }
+#forthcoming h2 { margin-bottom: 100px; }
+
+#recent h2 { margin-bottom: 100px; }
+
+.bites { list-style: none;}
+.bite { margin-bottom: 50px; }
+.bite h3 { font-size: 1.35em; font-weight: 700; margin: 0; text-transform: uppercase;}
+.bite h4 { font-size: 1em; font-weight: bold; margin: 0;}
+
+#faq h2 { margin-bottom: 100px; }
+#faq a, #fac a:visited { color: #466277;}
+
+.questions { list-style: none; }
+.question { margin-bottom: 50px; }
+
+.license { color: #999; margin-top: 100px;}
+/* 
+    #1B3139
+    #466277
+    #FFE4CE
+    #F9EEF3
+*/
