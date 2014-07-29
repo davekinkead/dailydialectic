@@ -40,6 +40,18 @@ header a { color: #466277; margin: 10px; }
 .question { margin-bottom: 50px; }
 
 .license { color: #999; margin-top: 100px;}
+
+@media print {
+  nav { display: none;}
+  h1 { line-height: 1em;}
+  section { margin-bottom: 0;}
+  .content { padding: 0;}
+  #splash { min-height: 0;}
+  #about { padding: 50px 0; page-break-after: always;}
+  #faq { display: none;}
+}
+
+
 /* 
     #1B3139
     #466277
