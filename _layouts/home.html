@@ -1,8 +1,10 @@
----
-layout: home
----
+<!DOCTYPE html>
+<html>
 
+  {% include head.html %}
 
+    <body>
+      
       <header>
         <nav><a href="#faq">faq</a><a href="#forthcoming">bites</a><a href="mailto:d.kinkead@uq.edu.au?subject=The Daily Dialectic - I want to be a part of it!">contact</a></nav>
       </header>
@@ -21,33 +23,7 @@ layout: home
         </div>
       </section>
 
-      <section id="forthcoming">
-        <div class="content">
-          <h2>Forthcoming Bites</h2>
-          <ol class=bites>
-            <li class="bite">
-              <h4>1 August 2014</h4>
-              <h3>The Limits of Liberalism</h3>
-              <h4>Dave Kinkead, University of Queensland</h4>
-            </li>
-            <li class="bite">
-              <h4>6 August 2014</h4>
-              <h3>It's life Jim, but not as we know it</h3>
-              <h4>Alexandra Varlakov, University of Queensland</h4>
-            </li>
-            <li class="bite">
-              <h4>8 August 2014</h4>
-              <h3>Consequentialism &amp; Statutes of Limitations</h3>
-              <h4>Michael Vincent, University of Queensland</h4>
-            </li>
-            <li class="bite">
-              <h4>13 August 2014</h4>
-              <h3>Philosophy as a way of life</h3>
-              <h4>Leah Carr, University of Queensland</h4>
-            </li>
-          </ol>
-        </div>
-      </section>
+      {% include forthcoming.html %}
 
 
       <footer id="faq">

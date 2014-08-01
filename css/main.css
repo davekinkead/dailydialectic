@@ -30,8 +30,9 @@ header a { color: #466277; margin: 10px; }
 
 .bites { list-style: none;}
 .bite { margin-bottom: 50px; }
-.bite h3 { font-size: 1.35em; font-weight: 700; margin: 0; text-transform: uppercase;}
+.bite h3 { font-size: 1.35em; font-weight: 700; margin-bottom: 5px; text-transform: uppercase;}
 .bite h4 { font-size: 1em; font-weight: bold; margin: 0;}
+.bite a, .bite a:visited { color: #466277;}
 
 #faq h2 { margin-bottom: 100px; }
 #faq a, #fac a:visited { color: #466277;}

@@ -1,0 +1,19 @@
+      <section id="forthcoming">
+        <div class="content">
+          <h2>Forthcoming Bites</h2>
+          <ol class=bites>
+            
+            {% assign bites = site.bites | sort: 'date' %}
+            {% for bite in bites %}
+            {% if bite.status == 'forthcoming' %}
+            <li class="bite">
+              <h4>{{ bite.date | date_to_long_string }}</h4>
+              <h3><a class="post-link" href="{{ bite.url | prepend: site.baseurl }}">{{ bite.title }}</a></h3>
+              <h4>{{ bite.author }}, {{ bite.affiliation }}</h4>
+            </li>
+            {% endif %}
+            {% endfor %}
+            
+          </ol>
+        </div>
+      </section>

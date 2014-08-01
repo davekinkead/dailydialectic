@@ -7,6 +7,12 @@ url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Custom
+collections:
+  bites:
+    output: true
+    permalink: bites/:path/
+
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: :title
