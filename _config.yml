@@ -1,11 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+title: The Daily Dialectic
+email: d.kinkead@uq.edu.au
+description: "Bite sized chunks of public philosophy served (almost) daily"
+baseurl: "http://dave.kinkead.com.au/dailydialectic"
+url: "http://dave.kinkead.com.au/dailydialectic"
+twitter_username: davekinkead
+github_username:  davekinkead
 
 # Custom
 collections:
