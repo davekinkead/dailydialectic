@@ -1,11 +1,11 @@
-      <section id="forthcoming">
+      <section id="previous">
         <div class="content">
-          <h1>Forthcoming</h1>
+          <h1>Previous</h1>
           <ol class=bites>
             
             {% assign bites = site.bites | sort: 'date' %}
             {% for bite in bites %}
-            {% if bite.status == 'forthcoming' %}
+            {% if bite.status == 'published' %}
             <li class="bite">
               <h4>{{ bite.date | date_to_long_string }}</h4>
               <h3><a class="post-link" href="{{ bite.url | prepend: site.baseurl }}">{{ bite.title }}</a></h3>

@@ -1,0 +1,77 @@
+---
+---
+
+$padding: 100px 0;
+
+* { margin: 0; padding: 0;
+}
+
+html, body { height: 100%; text-align: center;  font-family: 'Lato', sans-serif; font-size: 18px; line-height: 1.5em; color: #666; }
+
+.content { max-width: 800px; margin: 0 auto; padding: $padding; }
+
+h1 { font-size: 2.5em; text-transform: uppercase; }
+h2 { font-size: 1.75em; text-transform: uppercase; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.25em; }
+h2, h3, h4, h5, h6, p, ul, ol, li { margin-bottom: 18px; }
+
+a, .abbr { text-decoration: none; border-bottom: 1px dotted; }
+
+header { color: #466277; background-color: #1B3139; padding: 10px; }
+header nav { text-align: right; margin-right: 10px;}
+header a { color: #466277; margin: 10px; }
+
+section { padding: $padding; }
+
+#splash {  color: #466277; background-color: #1B3139; 
+ h1 { padding-bottom: 70px; font-family: 'Pacifico', cursive; font-size: 8em; font-style: italic; text-transform: none;}
+ h2 { margin-top: 100px; text-transform: none;}
+ a { text-decoration: none; border-bottom: none; }
+ .content { max-width: 1000px; }
+}
+
+#about { background-color: #466277; color: #FFE4CE; text-align: center; padding: $padding;
+  a, a:visited { color: #FFE4CE;}
+}
+
+#forthcoming { background-color: #FFE4CE; color: #466277; 
+  h2 { margin-bottom: 100px; }
+}
+
+#recent h2 { margin-bottom: 100px; }
+
+.bites { list-style: none; margin-top: 50px; }
+.bite { padding-top: 100px; 
+ h3 { font-size: 1.35em; font-weight: 700; margin-bottom: 5px; text-transform: uppercase;}
+ h4 { font-size: 1em; font-weight: bold; margin: 0;}
+ a, a:visited { color: #466277;}
+}
+
+.post { 
+  h3 { margin: 50px 0; }
+  a, a:visited { color: #466277; }
+}
+footer { background-color: #eee;
+  
+}
+
+.license { color: #999; }
+
+@media print {
+  nav { display: none;}
+  h1 { line-height: 1em;}
+  section { margin-bottom: 0;}
+  .content { padding: 0;}
+  #splash { min-height: 0;}
+  #about { padding: 50px 0; page-break-after: always;}
+  #faq { display: none;}
+}
+
+
+/* 
+    #1B3139
+    #466277
+    #FFE4CE
+    #F9EEF3
+*/
