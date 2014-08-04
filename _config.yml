@@ -2,6 +2,7 @@
 title: The Daily Dialectic
 email: d.kinkead@uq.edu.au
 description: "Bite sized chunks of public philosophy served (almost) daily"
+baseurl: /dailydialectic
 
 # Custom
 collections:
