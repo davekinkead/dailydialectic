@@ -8,7 +8,7 @@ To propose a talk, follow these (hopefully) simple instructions:
 
 1. Signup to github.com if you don't already have an account.
 2. Fork the daily dialectic repo.
-3. Add a file for your talk named `your-talk-name.md` and ensure that the metadata in the file resembled the one below.
+3. Add a file for your talk named `your-talk-name.md` to the _bites folder and ensure that the metadata in the file resembled the one below.
 4. Submit a pull request.
 5. Or if that's too hard, just [email your proposal](mailto:d.kinkead@uq.edu.au?subject=The Daily Dialectic - I would give up my third born to present!) to me.
 
