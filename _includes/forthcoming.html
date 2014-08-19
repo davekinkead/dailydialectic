@@ -3,7 +3,7 @@
           <h1>Forthcoming</h1>
           <ol class=bites>
             
-            {% assign bites = site.bites | sort: 'date' %}
+            {% assign bites = site.bites | sort: "date"  %}
             {% for bite in bites %}
             {% if bite.status == 'forthcoming' %}
             <li class="bite">
