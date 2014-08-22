@@ -3,7 +3,7 @@ title: Consequentialism & Statutes of Limitations
 author: Michael Vincent
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 20 Aug 2014
 ---
 

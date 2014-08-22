@@ -3,8 +3,7 @@
           <h1>Previous</h1>
           <ol class=bites>
             
-            {% assign bites = site.bites | sort: 'date' %}
-            {% for bite in bites %}
+            {% for bite in site.posts %}
             {% if bite.status == 'published' %}
             <li class="bite">
               <h4>{{ bite.date | date_to_long_string }}</h4>

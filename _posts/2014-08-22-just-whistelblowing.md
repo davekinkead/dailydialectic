@@ -3,7 +3,7 @@ title: Just Whistle-blowing
 author: David Douglas
 affiliation: Philosopher for Hire
 layout: bite
-status: forthcoming
+status: published
 date: 22 Aug 2014
 ---
 
