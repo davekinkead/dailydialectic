@@ -3,7 +3,7 @@ title: On Autonomy in Medicine
 author: Victoria Rohleder
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 29 Aug 2014
 ---
 
