@@ -3,7 +3,7 @@ title: Why single case propensities are non-negative
 author: William Balthes
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 03 Sep 2014
 ---
 
