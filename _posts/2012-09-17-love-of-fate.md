@@ -3,7 +3,7 @@ title: Nietzsche's Anti-Hellenistic Love of Fate
 author: Thom Ryan
 affiliation: Monash University
 layout: bite
-status: forthcoming
+status: published
 date: 17 Sep 2014
 ---
 

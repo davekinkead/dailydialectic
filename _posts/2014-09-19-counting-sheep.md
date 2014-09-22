@@ -3,7 +3,7 @@ title: Relative Identity and Counting Sheep
 author: Alexander Sandgren
 affiliation: Australian National University
 layout: bite
-status: forthcoming
+status: published
 date: 19 Sep 2014
 ---
 

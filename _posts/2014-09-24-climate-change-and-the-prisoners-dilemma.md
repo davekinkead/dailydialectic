@@ -4,7 +4,7 @@ author: Dave Kinkead
 affiliation: University of Queensland
 layout: bite
 status: forthcoming
-date: 24 Sep 2014
+date: 8 Oct 2014
 ---
 
 What can game theory tell us about appropriate responses to climate change?  I'm sure game theorists would posit that their discipline is immensely helpful but my natural skepticism of applying theoretical models to predicting complex human behaviour makes me doubt just how much game theory can help.
