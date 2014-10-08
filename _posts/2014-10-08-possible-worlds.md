@@ -7,8 +7,6 @@ status: forthcoming
 date: 8 Oct 2014
 ---
 
-The nature of possible worlds.
-
 We live on the actual universe. We experience actual events. We can extrapolate near and far actual events. The actual universe is the totality of all these actual events.
 
 So it makes sense for us when we say, our actual universe could have have turned out differently than what it actually is now.
