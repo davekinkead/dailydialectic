@@ -3,7 +3,7 @@ title: The nature of possible worlds
 author: Chris Mesiku
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 8 Oct 2014
 ---
 
