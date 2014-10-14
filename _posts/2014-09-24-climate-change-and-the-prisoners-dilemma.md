@@ -17,9 +17,9 @@ Having spent much of the last month developing agent based game theoretic models
 One locus of philosophical debate in game theory is which games best model social and political behaviour.  The Prisoner's Dilemma is probably the most famous of these although there is good reason to believe other games better describe the payoffs in human interactions [^stag].  In normal form with  traditional payoffs, a Prisoner's Dilemma looks like this:
 
 
-		3,3		|	 	0,5
-		------|------
-		5,0	  |   1,1
+3,3		|	 	0,5
+------|------
+5,0	  |   1,1
 
 
 If both players cooperate, they both receive a payoff of 3.  If both defect, they both receive 1.  If however one cooperates and the other defects, then the defector receives a payoff of 5 while the cooperator gets nothing.
@@ -29,9 +29,9 @@ The interesting thing about the Prisoner's Dilemma is that rational agents who a
 So is climate change a Prisoner's Dilemma?  Perhaps.  It's clear that mutual cooperation - everyone consuming and polluting no more than their fair share - is the socially optimal strategy.  If we all use more CO2e than our fair share allows, then we destabilise the current environmental equilibrium and basically the fuck the planet.  It's also clear that not using more than one's fair share while others consume unchecked has a low payoff for the cooperator, and high payoff for the defector, and negative outcome for the system.  With these observations in mind, we can construct a payoff matrix something like this:
 
 
-		1,1	 	|	 -5,3
-		------|--------
-		3,-5  |	  -3,-3
+1,1	 	|	 -5,3
+------|--------
+3,-5  |	  -3,-3
 
 
 The ratios between each quadrant is debatable.  Exactly how much worse is it to cooperate with a defector than to defect with one? Regardless, the relative differentials between quadrants seems correct.  Mutual cooperation benefits both individuals and is socially optimal.  Mutual defection has negative effects on the system without discriminating between agents.  Cooperating with a defector imposes the most cost on an agent because they lose relative to defector - who doesn't incurring the same economic costs of reduced consumption - while the system damage is less than in mutual defection.  And finally, defectors only benefit when others cooperate.
