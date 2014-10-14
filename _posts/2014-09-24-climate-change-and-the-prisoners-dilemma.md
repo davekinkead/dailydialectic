@@ -17,8 +17,8 @@ Having spent much of the last month developing agent based game theoretic models
 One locus of philosophical debate in game theory is which games best model social and political behaviour.  The Prisoner's Dilemma is probably the most famous of these although there is good reason to believe other games better describe the payoffs in human interactions [^stag].  In normal form with  traditional payoffs, a Prisoner's Dilemma looks like this:
 
 
-		3,3	 |	 0,5
-		-------------
+		3,3		|	 	0,5
+		------|------
 		5,0	  |   1,1
 
 
@@ -29,8 +29,8 @@ The interesting thing about the Prisoner's Dilemma is that rational agents who a
 So is climate change a Prisoner's Dilemma?  Perhaps.  It's clear that mutual cooperation - everyone consuming and polluting no more than their fair share - is the socially optimal strategy.  If we all use more CO2e than our fair share allows, then we destabilise the current environmental equilibrium and basically the fuck the planet.  It's also clear that not using more than one's fair share while others consume unchecked has a low payoff for the cooperator, and high payoff for the defector, and negative outcome for the system.  With these observations in mind, we can construct a payoff matrix something like this:
 
 
-		1,1	 |	 -5,3
-		---------------
+		1,1	 	|	 -5,3
+		------|--------
 		3,-5  |	  -3,-3
 
 
