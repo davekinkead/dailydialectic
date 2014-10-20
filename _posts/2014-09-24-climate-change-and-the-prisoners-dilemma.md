@@ -3,7 +3,7 @@ title: Climate change and the Prisoner's Dilemma.
 author: Dave Kinkead
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 15 Oct 2014
 ---
 
