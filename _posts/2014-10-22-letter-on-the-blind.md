@@ -3,7 +3,7 @@ title: Letter on the blind for the use of those who see
 author: Martyn Lloyd
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 22 Oct 2014
 ---
 
