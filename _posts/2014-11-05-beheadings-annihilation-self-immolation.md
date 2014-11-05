@@ -3,7 +3,7 @@ title: Beheadings, annihilation and self-immolation
 author: Bryan Mukandi
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 5 Nov 2014
 ---
 
