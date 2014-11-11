@@ -3,7 +3,7 @@ title: Real Patterns, Real Dynamics, Real Patterns...
 author: Alexandra Varlakov
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 8 Nov 2014
 ---
 
