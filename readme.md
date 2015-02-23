@@ -2,6 +2,13 @@
 
 The Daily Dialectic is a forum for presenting bite sized chunks of public philosophy served (almost) daily.  Visit the [website](http://dave.kinkead.com.au/dailydialectic) for more details.
 
+The format is pretty simple:
+
+    10:00 arrive, drink tea, eat tim tams
+    10:15 talk starts
+    10:30 Q&A
+    11:00 retun to pondering the nature of reality
+
 ## Proposing a talk
 
 To propose a talk, follow these (hopefully) simple instructions:

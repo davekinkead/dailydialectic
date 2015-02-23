@@ -27,6 +27,7 @@ The Daily Dialectic is for anyone interested in philosophy and/or coffee & biscu
 
 As above - anyone can present. Just [email us a pitch](contact) and we'll try and slot you in.
 
+
 ### What is the format?
 
 We meet in the level 5 foyer of the Michie building any time before 10:30am. The dialectic starts at 10:30 sharp and there is a stick 15 minute time limit. Q&A and coffee follows until we get bored or are forced back to work.
