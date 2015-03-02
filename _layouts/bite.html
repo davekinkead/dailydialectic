@@ -12,9 +12,10 @@
             <div class="content">
               <h1><a href="{{ site.baseurl }}/">Daily Dialectic</a></h1>
               <h2>"{{ page.title }}"</h2>
-            <h4>{{ page.author }}, {{ page.affiliation }}</h4>
-          </div>
-        </section>
+              <h4>{{ page.author }}, {{ page.affiliation }}</h4>
+              <p>{{ page.date | date_to_long_string }}</p>
+            </div>
+          </section>
         
         </header>
       
