@@ -3,7 +3,7 @@ title: The Problem of the People
 author: Dave Kinkead
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 4 Mar 2015
 ---
 
