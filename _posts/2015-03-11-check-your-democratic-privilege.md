@@ -3,7 +3,7 @@ title: Check Your Democratic Privilege
 author: Luke Zaphir
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 11 Mar 2015
 ---
 
