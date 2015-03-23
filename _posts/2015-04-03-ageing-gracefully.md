@@ -4,7 +4,7 @@ author: Victoria Rohleder
 affiliation: University of Queensland
 layout: bite
 status: forthcoming
-date: 3 Apr 2015
+date: 10 Apr 2015
 ---
 
 > The person who flees is not yet free, for in fleeing [s]he is still determined by the very thing from which [s]he is fleeing  

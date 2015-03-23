@@ -3,7 +3,7 @@ title: Good without Good
 author: Peter Ellerton
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 18 Mar 2015
 ---
 
