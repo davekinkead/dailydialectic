@@ -3,7 +3,7 @@ title: "Dialectics: not even once"
 author: Michael Vincent
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 25 Mar 2015
 ---
 

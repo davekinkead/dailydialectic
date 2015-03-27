@@ -3,7 +3,7 @@ title: Manifesto for Mutants
 author: Emma Wilson
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 27 Mar 2015
 ---
 
