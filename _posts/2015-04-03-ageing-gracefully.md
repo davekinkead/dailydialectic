@@ -3,7 +3,7 @@ title: Ageing Gracefully
 author: Victoria Rohleder
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 10 Apr 2015
 ---
 
