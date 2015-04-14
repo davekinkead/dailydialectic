@@ -1,5 +1,5 @@
 ---
-title: Is Australia basically as bad as ISIS?
+title: Is Australia as bad as ISIS?
 author: Hugh Breakey
 affiliation: Griffith University
 layout: bite
