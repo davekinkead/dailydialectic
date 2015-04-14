@@ -1,5 +1,5 @@
 ---
-title: White Australia, Black Consititution
+title: White Australia, Black Constitution
 author: Dinesh Devaraj
 affiliation: University of Queensland
 layout: bite
