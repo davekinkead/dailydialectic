@@ -1,5 +1,5 @@
 ---
-title: Cooperation: Rational and Reproducible?
+title: Cooperation - Rational and Reproducible?
 author: Michael Vincent
 affiliation: University of Queensland
 layout: bite
