@@ -3,7 +3,7 @@ title: Is Australia as bad as ISIS?
 author: Hugh Breakey
 affiliation: Griffith University
 layout: bite
-status: forthcoming
+status: published
 date: 24 Apr 2015
 ---
 

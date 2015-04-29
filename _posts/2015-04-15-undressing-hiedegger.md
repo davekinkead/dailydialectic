@@ -3,7 +3,7 @@ title: Undressing Hiedegger
 author: Darcy Burgin
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 15 Apr 2015
 ---
 

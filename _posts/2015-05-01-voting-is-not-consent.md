@@ -56,4 +56,8 @@ The government still expects you to obey the law, even if the party you voted fo
 
 Consent changes the structure of our moral relationships. Voting doesn't. Therefore voting can't be consent.
 
+<<<<<<< HEAD
 And while it might be true that we have obligations to obey the law, these don't come from us voting.
+=======
+And while it might be true that we have obligations to obey the law, these don't come from us voting.
+>>>>>>> 50f2a4e02401240c9064456f312b1710ce868ca1
