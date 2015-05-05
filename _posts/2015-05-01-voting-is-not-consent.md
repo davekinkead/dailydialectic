@@ -2,7 +2,7 @@
 title: Voting is not Consent
 author: Dave Kinkead
 affiliation: University of Queensland
-layout: bite
+layout: published
 status: forthcoming
 date: 1 May 2015
 ---
