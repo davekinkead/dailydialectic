@@ -1,5 +1,5 @@
 ---
-title: WTPhi: You Have Something to Hide
+title: "WTPhi: You Have Something to Hide"
 author: Alexandra Varlakov
 affiliation: University of Queensland
 layout: bite
