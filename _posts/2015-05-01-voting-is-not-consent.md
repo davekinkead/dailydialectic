@@ -3,12 +3,9 @@ title: Voting is not Consent
 author: Dave Kinkead
 affiliation: University of Queensland
 layout: published
-status: forthcoming
+status: published
 date: 1 May 2015
 ---
-
-# Voting is not consent
-
 
 Politicians of all types claim that you should do what the government tells you to do because you've consented to the authority of the state.
 

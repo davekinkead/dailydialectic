@@ -3,7 +3,7 @@ title: "WTPhi: You Have Something to Hide"
 author: Alexandra Varlakov
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 06 May 2015
 ---
 

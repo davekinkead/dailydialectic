@@ -3,7 +3,7 @@ title: What is ratio-pragmatism?
 author: Leah Carr
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 08 May 2015
 ---
 
