@@ -3,7 +3,7 @@ title: Demarchy as Bicameralism
 author: Luke Zaphir
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 15 May 2015
 ---
 

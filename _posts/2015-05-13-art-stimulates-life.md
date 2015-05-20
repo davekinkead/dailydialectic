@@ -3,7 +3,7 @@ title: Art as a stimulus to life
 author: Riccardo Carli
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 13 May 2015
 ---
 

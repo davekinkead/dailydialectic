@@ -3,11 +3,9 @@ title: Dying for Ideas
 author: Costica Bradatan
 affiliation: Texas Tech University
 layout: bite
-status: forthcoming
+status: published
 date: 20 May 2015
 ---
-
-The Dangerous Lives of the Philosophers
 
 What do Socrates, Hypatia, Giordano Bruno, Thomas More, and Jan Patocka have in common? First, they were all faced one day with the most difficult of choices: stay faithful to your ideas and die or renounce them and stay alive. Second, they all chose to die. Their spectacular deaths have become not only an integral part of their biographies, but are also inseparable from their work. A "death for ideas" is a piece of philosophical work in its own right; Socrates may have never written a line, but his death is one of the greatest philosophical best-sellers of all time.
 
