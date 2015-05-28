@@ -3,7 +3,7 @@ title: Is ethics possible without moral objectivity?
 author: Alain Guillemain
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 22 May 2015
 ---
 
