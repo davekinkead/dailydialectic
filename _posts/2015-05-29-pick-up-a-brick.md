@@ -3,7 +3,7 @@ title: Drop Philosophy & Pick Up A Brick
 author: Alex Varlakov
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 29 May 2015
 ---
 
