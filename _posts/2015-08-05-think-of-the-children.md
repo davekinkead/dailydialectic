@@ -3,7 +3,7 @@ title: Won’t Somebody Please Think of the Children?
 author: Luke Zaphir
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 5 Aug 2015
 ---
 

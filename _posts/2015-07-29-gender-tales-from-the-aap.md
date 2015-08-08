@@ -3,7 +3,7 @@ title: Gender Tales from the AAP
 author: Kate Diserens
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 29 July 2015
 ---
 
