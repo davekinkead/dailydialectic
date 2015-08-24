@@ -3,7 +3,7 @@ title: No Time for Therapy
 author: George Nguyen
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 12 Aug 2015
 ---
 

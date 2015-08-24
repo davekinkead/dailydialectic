@@ -3,7 +3,7 @@ title: On creative machines and freedom
 author: Chris Mesiku
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 19 Aug 2015
 ---
 
