@@ -3,7 +3,7 @@ title: The impossibility of democratic equality
 author: Dave Kinkead
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 26 Aug 2015
 ---
 
