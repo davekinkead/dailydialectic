@@ -3,7 +3,7 @@ title: The Dialectical Circularity of Colonial Racism
 author: Dinesh Devaraj
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 2 Sep 2015
 ---
 
