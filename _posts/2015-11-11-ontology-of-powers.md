@@ -3,7 +3,7 @@ title: Ontology of Powers
 author: Leah Carr
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 11 Nov 2015
 ---
 
