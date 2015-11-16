@@ -3,7 +3,7 @@ title: Philosophising with Teeth
 author: Alexandra Varlakov
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 16 Sep 2015
 ---
 
