@@ -3,7 +3,7 @@ title: The FIFA World Cup and Dispositional Compatibilism
 author: Chris Mesiku
 affiliation: University of Queensland
 layout: bite
-status: forthcoming
+status: published
 date: 18 Nov 2015
 ---
 
